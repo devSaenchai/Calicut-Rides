@@ -1,0 +1,6 @@
+# robots.txt for CalicutRides
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://www.calicutrides.com/sitemap.xml
